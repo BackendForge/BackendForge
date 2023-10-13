@@ -8,8 +8,8 @@ Here you can find code regarding:
 
 ## 📫 How to reach me:
 
-- Twitter: [@c0d3aj][twitter]
-- Email: [aj@c0d3aj.com][mailbox]
+- Twitter: [@backendforge][twitter]
+- Email: [admin@backendforge.com][mailbox]
 
 <br />
 
