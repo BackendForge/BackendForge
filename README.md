@@ -8,7 +8,6 @@ Here you can find code regarding:
 
 ## 📫 How to reach me:
 
-- Twitter: [@backendforge][twitter]
 - Email: [admin@backendforge.com][mailbox]
 
 <br />
@@ -29,7 +28,6 @@ Here you can find code regarding:
 
 ---
 
-[twitter]: https://twitter.com/@c0d3aj
 [mailbox]: mailto:aj@c0d3aj.com
 
 <!---
