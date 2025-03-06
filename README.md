@@ -1,8 +1,8 @@
-# Hi 👋
+# Welcome 👋
 
-I am programmer specializing in backend development and system maintenance.
+I specialize in backend development, system maintenance and AI agents development.
 
-- Python, Rust, Kubernetes, Docker, MongoDB, PostgreSQL, Redis, Kafka, Apache Airflow
+- Python, Rust, Kubernetes, Docker, MongoDB, PostgreSQL (normal, pgvector, age), Redis, Neo4j, Qdrant, Weaviate, Kafka, Apache Airflow, Langchain, Portfolio Risk Modeling
 
 ## 📫 How to reach me:
 
