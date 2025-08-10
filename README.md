@@ -37,4 +37,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-backendforges-projects.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/petroniusz2009)
+[<img src="https://spotify-now-playing-backendforge.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/petroniusz2009)
