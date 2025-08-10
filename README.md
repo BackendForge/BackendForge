@@ -31,3 +31,7 @@ I specialize in backend development, system maintenance and AI agents developmen
 BackendForge/BackendForge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
+[![Spotify](https://now-playing-BackendForge.vercel.app/api/spotify-playing)](https://open.spotify.com/user/petroniusz2009)
